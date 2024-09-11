@@ -1,0 +1,8 @@
+.extra-info {
+    display: none;
+  }
+  
+  .card:hover .extra-info {
+    display: flex; /* Hover qilinganda qo'shimcha ma'lumotni ko'rsatish */
+  }
+  
